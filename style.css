@@ -1,8 +1,19 @@
-@media only screen and (max-width: 600px) {
+body{
+  background-color: yellow;
+}
+
+@media (max-width: 800px) {
   body {
-    background-color: lightblue;
+    background-color: black;
   }
 }
+
 #welcome-section{
   height: 100vh;
+}
+
+#navbar{
+  position:fixed;
+  margin: 50px 50px 50px 50px
+  top: 0px; 
 }
