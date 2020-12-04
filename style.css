@@ -15,5 +15,7 @@ body{
 #navbar{
   position:fixed;
   margin: 50px 50px 50px 50px
-  top: 0px; 
+  top: 0px;
+  left:0px;
+  width: 100%;
 }
